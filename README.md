@@ -69,7 +69,14 @@ Curious by nature and driven by data. **PhD in Microbiology** with research expe
 
 ### **Highlighted Projects** 🚀
 
-> Stay tuned — more projects coming soon!
+#### 🦠 [GutFeeling — Microbiota RAG Chatbot](https://github.com/AlbertoSPJ/GutFeeling)
+RAG-based chatbot grounded in 56,000+ peer-reviewed PubMed abstracts (1980–2025). Built with LlamaIndex, Llama 3.3 70B (Groq), HuggingFace embeddings and Streamlit. Includes a literature landscape with temporal analysis, MeSH topic mining and co-authorship network.
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
+[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FFCC00?style=flat)]()
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)]()
+[![Groq](https://img.shields.io/badge/Groq-000000?style=flat)]()
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat)](https://albertospj-gutfeeling.hf.space)
 
 ---
 
