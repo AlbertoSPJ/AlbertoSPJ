@@ -76,7 +76,7 @@ RAG-based chatbot grounded in 56,000+ peer-reviewed PubMed abstracts (1980–202
 [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FFCC00?style=flat)]()
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)]()
 [![Groq](https://img.shields.io/badge/Groq-000000?style=flat)]()
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat)](https://albertospj-gutfeeling.hf.space)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=streamlit&logoColor=white)](https://albertospj-gutfeeling.hf.space)
 
 ---
 
@@ -100,5 +100,5 @@ RAG-based chatbot grounded in 56,000+ peer-reviewed PubMed abstracts (1980–202
 ---
 
 <p align="center">
-  <sub>📅 Last updated: 03 March 2026</sub>
+  <sub>📅 Last updated: 26 March 2026</sub>
 </p>
